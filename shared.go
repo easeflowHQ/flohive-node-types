@@ -1,4 +1,4 @@
-package types
+package flohive_node_types
 
 import "math/big"
 
